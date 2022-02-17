@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QAEngine">
+        <file>TouchIndicator.qml</file>
+    </qresource>
+</RCC>
